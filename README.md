@@ -1,6 +1,6 @@
 # William-Beauvais
 
-![William Beauvais avec sa petite soeur Laurence Beauvais](media2/william.jpg)
+![William Beauvais avec sa petite soeur Laurence Beauvais](medias2/william.jpg)
 
 ## Biographie
 ### Enfance
@@ -14,23 +14,16 @@
 #####
 ### Logos
 ##### - Coca-cola
-##### -
-##### -
-##### -
-##### -
-##### -
+##### -Corsair
+##### -Amazon
+##### -Oreo
+##### -McDonalds
+##### -Bestbuy
 ### Publicitées
-##### -
-##### -
-##### -
-##### -
-##### -
-##### -
-### Photos
-##### -
-##### -
-##### -
-##### -
-##### -
-##### -
-##### -
+##### -Subway
+##### -Coca-cola
+##### -Archambeault
+##### -Zara
+##### -Walmart
+##### -IGA
+
