@@ -21,4 +21,4 @@
 | [Walmart](https://www.walmart.ca/fr) | [McDonalds](https://www.mcdonalds.com/ca/fr-ca.html) |
 | [IGA](https://www.iga.net/) | [Bestbuy](https://www.bestbuy.ca/) |
 
-!(medias2/video.mp4)
+![a](medias2/video.mp4)
