@@ -1,4 +1,4 @@
-# William-Beauvais
+# William Beauvais
 
 ![William Beauvais avec sa petite soeur Laurence Beauvais](medias2/william.jpg)
 
