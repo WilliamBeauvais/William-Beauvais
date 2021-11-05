@@ -1,6 +1,6 @@
 # William-Beauvais
 
-!()
+![William Beauvais avec sa petite soeur Laurence Beauvais](media2/william.jpg)
 
 ## Biographie
 ### Enfance
