@@ -3,11 +3,11 @@
 ## 1: Sélectionner l'outil de sélection rapide (W)
 ![1](medias2/1.jpg)
 
-## 2: Appuyer sur la touche : "sélectionner un sujet"
+## 2: Appuyer sur la touche # "sélectionner un sujet"
 #### Attendre ensuite que des lignes pointillées apparaissent
 ![2](medias2/2.jpg)
 
-## 3: Appuyer sur la touche "sélectionner et masquer"
+## 3: Appuyer sur la touche #" sélectionner et masquer"
 #### Attendre ensuite que le menu apparaisse
 ![3](medias2/3.jpg)
 
